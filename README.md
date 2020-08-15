@@ -5,7 +5,7 @@
 - 🔭 I'm currently working on a fullstack developement track
 - 🍎 I'm currently learing everything 🧪
 - 📄 I'm looking for a developer role
-- 🥅 2020 Goals : Get a job at good firm
+- 🥅 2020 Goals : Get a role as FullStackDeveloper
 - ⚡ Fun fact : I love to read and workout 🐱‍🏍
 
 ### Connect with me:
@@ -39,5 +39,4 @@
 <br/>
 
 [linkedin]: https://www.linkedin.com/in/aman-deep-b91304152/
-
 [instagram]: https://www.instagram.com/th3l4zypr0gr4mm3r/
