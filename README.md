@@ -6,7 +6,7 @@
 - 🍎 I'm currently learing everything 🧪
 - 📄 I'm looking for a developer role 💻
 - 🥅 2020 Goals : Get a role as FullStackDeveloper 🖥️
-- ⚡ Fun fact : I love to read and workout 🐱‍🏍
+- ⚡ Fun fact : I love to read and cycle 🚴‍♂️
 
 ### Connect with me:
 
