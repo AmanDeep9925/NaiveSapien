@@ -41,5 +41,5 @@
 
 <details>
     <summary>⚡ Github Stats</summary>
-    <img align="left" alt="AmanDeep9925's Github Stats" src="https://github-readme-stats.amandeep9925.vercel.app/api?username=AmanDeep9925&show_icons=true&hide_border=true&theme=radical" />
+    <img align="left" alt="AmanDeep9925's Github Stats" src="https://github-readme-stats.amandeep9925.vercel.app/api?username=AmanDeep9925&show_icons=true&hide_border=true&theme=secondary" />
 </details>
