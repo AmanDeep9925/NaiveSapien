@@ -40,10 +40,6 @@
 [instagram]: https://www.instagram.com/th3l4zypr0gr4mm3r/
 
 <details>
-    <summary>⚡ Recent Activity</summary>
-</details>
-
-<details>
     <summary>⚡ Github Stats</summary>
     <img align="left" alt="AmanDeep9925's Github Stats" src="https://github-readme-stats.amandeep9925.vercel.app/api?username=AmanDeep9925&show_icons=true&hide_border=true&theme=secondary" />
 </details>
