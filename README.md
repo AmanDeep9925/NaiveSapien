@@ -2,11 +2,11 @@
 
 ## I'm a Student, Engineer, Developer ! 🚀
 
--   🔭 I'm currently working on a fullstack developement track
--   🍎 I'm currently learing everything 🧪
--   📄 I'm looking for a developer role 💻
--   🥅 2020 Goals : Get a role as FullStackDeveloper 🖥️
--   ⚡ Fun fact : I love to read and cycle 🚴‍♂️
+- 🔭 Full Stack Developer
+- 🍎 I'm currently learing ReactJS,NextJS 🧪
+- 📄 I'm looking for a Frontend Developer role 💻
+- 🥅 2022 Goals : Get a role as FullStackDeveloper 🖥️
+- ⚡ Fun fact : I love to read and cycle 🚴‍♂️
 
 ### Connect with me:
 
