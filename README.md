@@ -4,7 +4,6 @@
 
 ## I'm a Student, Engineer, Developer ! 🚀
 
-- 🔭 Full Stack Developer
 - 🍎 I'm currently learing ReactJS,NextJS 🧪
 - 📄 I'm looking for a Frontend Developer role 💻
 - 🥅 2022 Goals : Get a role as FullStackDeveloper 🖥️
