@@ -2,12 +2,11 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=AmanDeep9925.AmanDeep9925)
 
-## I'm a Student, Engineer, Developer ! 🚀
+## Developer,Tech Enthusiast ! 🚀
 
-- 🍎 I'm currently learing ReactJS,NextJS 🧪
-- 📄 I'm looking for a Frontend Developer role 💻
+- 🍎 Learing ReactJS,NextJS 🧪
 - 🥅 2022 Goals : Get a role as FullStackDeveloper 🖥️
-- ⚡ Fun fact : I love to read and cycle 🚴‍♂️
+- ⚡ Love to read 📖 and cycling 🚴‍♂️
 
 ### Connect with me:
 
@@ -38,7 +37,6 @@
 <br/>
 
 [linkedin]: https://www.linkedin.com/in/aman-deep-b91304152/
-[instagram]: https://www.instagram.com/th3l4zypr0gr4mm3r/
 
 <details>
     <summary>⚡ Github Stats</summary>
