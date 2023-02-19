@@ -5,8 +5,9 @@
 ## Developer,Tech Enthusiast ! 🚀
 
 - 🍎 Learing ReactJS,NextJS 🧪
-- 🥅 2022 Goals : Get a role as FullStackDeveloper 🖥️
+- 🥅 2023 Goals : Get a role as FullStackDeveloper 🖥️
 - ⚡ Love to read 📖 and cycling 🚴‍♂️
+- ✍️ Journaling my daily activity 📖
 
 ### Connect with me:
 
