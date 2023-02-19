@@ -1,4 +1,4 @@
-### Hi there, I'm AmanDeep - aka [thelazy_programmer] 👋
+### Hi there, I'm AmanDeep - aka [Naive Sapien] 👋
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=AmanDeep9925.AmanDeep9925)
 
